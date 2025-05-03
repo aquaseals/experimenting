@@ -1,2 +1,2 @@
-# aquaseals.github.io
-My python, javascript, html, rpi, and css experiments.
+# experimenting
+Python, javascript, html, rpi, and css experiments.
